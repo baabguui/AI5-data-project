@@ -42,13 +42,12 @@
 1. Numpy
 2. Pandas
 3. Matplotlib
-4. FastApi
-5. Scipy
+4. mySQL
+5. prisma ORM
 6. Node.js
 7. Express
-8. Uvicorn
-9. Bycrypt
-10. Dotenv
+8. Bycrypt
+9. Dotenv
 
 ## **`데이터세트`**
 
